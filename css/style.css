@@ -1,7 +1,9 @@
 .menu .logo_canal img {
     width: 50px;
+    right: 5%;
+    position: fixed;
 }
 
 .contato{
-    width: 20%;
+    width: 900px;
 }

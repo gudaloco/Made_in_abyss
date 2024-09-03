@@ -14,3 +14,10 @@
     top: 10%;
     position: fixed;
 }
+
+.voltar img {
+    width: 50px;
+    right: 3%;
+    bottom: 5%;
+    position: fixed;
+}

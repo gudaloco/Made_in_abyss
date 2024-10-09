@@ -1,30 +1,39 @@
 .menu .logo_canal img {
-    width: 50px;
-    right: 3%;
-    position: fixed;
+  width: 50px;
+  right: 3%;
+  position: fixed;
 }
 
 .contato {
-    width: 500px;
+  width: 500px;
 }
 
 .github img {
-    width: 50px;
-    right: 3%;
-    top: 10%;
-    position: fixed;
+  width: 50px;
+  right: 3%;
+  top: 15%;
+  position: fixed;
 }
 
 .voltar img {
-    width: 50px;
-    right: 3%;
-    bottom: 5%;
-    position: fixed;
+  width: 50px;
+  right: 3%;
+  bottom: 5%;
+  position: fixed;
 }
 
 .BURH img {
-    width: 50px;
-    right: 3%;
-    top: 15%;
-    position: fixed;
+  width: 50px;
+  right: 3%;
+  top: 20%;
+  position: fixed;
+}
+
+#header {
+  box-sizing: border-box;
+  height: 60px;
+}
+
+#logo img {
+  width: 40px;
 }
